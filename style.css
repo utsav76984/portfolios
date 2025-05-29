@@ -7,6 +7,7 @@
 
 .font-style{
     font-family: "Ubuntu", sans-serif;
+    background-color: #020200;
 }
 
 .logo{
@@ -85,3 +86,42 @@ h1 {
   
 }
 h1 { font-size: 6.5em; }
+
+.box{
+    height: 200px;
+    width: 200px;
+   
+    border: 1px solid rgb(16, 219, 16);
+}  .s-1:hover{
+     box-shadow: #e0320bb7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+     border: 1px solid rgb(224, 102, 31) !important;
+  }
+  .s-2:hover{
+     box-shadow: #006fbec5 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+     border: 1px solid rgb(16, 116, 209) !important;
+  }
+  .s-3:hover{
+     box-shadow: #6f10ecbe 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+     border: 1px solid rgb(150, 31, 219) !important;
+  }
+  .s-4:hover{
+     box-shadow: #78d0f5c4 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+      border: 1px solid rgb(153, 190, 238) !important;
+  }
+  .s-5:hover{
+     box-shadow: #f4e21eb7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+      border: 1px solid rgb(201, 209, 133) !important;
+  }
+  .s-6:hover{
+     box-shadow: #007ecdbe 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+      border: 1px solid rgb(80, 94, 221) !important;
+  }
+  .s-7:hover{
+     box-shadow: #707ea7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+      border: 1px solid rgb(210, 188, 223) !important;
+  }
+
+
+  .hover-i:hover{
+    box-shadow: #707ea7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+  }
