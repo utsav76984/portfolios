@@ -124,4 +124,9 @@ h1 { font-size: 6.5em; }
 
   .hover-i:hover{
     box-shadow: #707ea7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+    
+  }
+  .bg-blue{
+    backdrop-filter: blur(1.2rem) !important;
+    background-color:#cbaee76b !important;
   }
