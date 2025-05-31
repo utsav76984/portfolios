@@ -126,7 +126,30 @@ h1 { font-size: 6.5em; }
     box-shadow: #707ea7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
     
   }
+
+  .hover-se-5:hover{
+      box-shadow: #707ea7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+   background-color: #212529!important;
+   color:#fbd56a !important;
+  
+  }
+
+  .hover-sec-5:hover{
+      box-shadow: #707ea7 2px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;;
+   background-color: #212529!important;
+   color:#b96cff !important;
+  
+  }
   .bg-blue{
     backdrop-filter: blur(1.2rem) !important;
     background-color:#cbaee76b !important;
   }
+
+  .btn-sec-5{
+    background-color:#fbd56a!important;
+  }
+
+  .btn-se-5{
+    background-color:#b96cff!important;
+  }
+
