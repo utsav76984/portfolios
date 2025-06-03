@@ -783,8 +783,8 @@ body {
 
 :root {
   --color-primary: #ffffff;
-  --color-secondary: #00ff9d;
-  --color-accent: #1e1e1e;
+  --color-secondary: #bbeb0e;
+  --color-accent: #d8d0d0;
   --text-gray: #b0b0b0;
   --bg-dark: #0a0a0a;
   --bg-light: #161616;
@@ -821,7 +821,7 @@ body {
   background: var(--bg-light);
   padding: 2.5rem;
   border-radius: var(--border-radius);
-  box-shadow: 0 0 20px rgba(0, 255, 157, 0.15);
+  
   transition: var(--transition);
   max-width: 650px;
   margin-bottom: 2.5rem;
@@ -838,6 +838,7 @@ body {
   color: var(--color-primary);
   font-size: 2rem;
   font-weight: bold;
+
 }
 
 .education-info {
@@ -865,7 +866,7 @@ body {
 
 .education-btn:hover {
   transform: scale(1.1);
-  box-shadow: 0 0 25px rgba(0, 255, 157, 0.6);
+
 }
 
 /* Badge Grid */
@@ -878,7 +879,7 @@ body {
   padding: 2.5rem;
   background: var(--bg-light);
   border-radius: var(--border-radius);
-  box-shadow: 0 0 20px rgba(0, 255, 157, 0.15);
+ 
 }
 
 .badge {
